@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: Yellow;
+    background-image: url("Images/pattern.webp");
+}
+h2 {
+    color: white;
+}
+h3 {
+    font-weight: bold;
+}
+.starting-at {
+
+}
